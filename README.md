@@ -91,8 +91,6 @@ fc-cache -fv
 打开字体文件，并使用字体册安装。
 
 ---
-
----
 -  许可协议  
 本字体使用 SIL Open Font License V1.1 许可协议发表。  
   
