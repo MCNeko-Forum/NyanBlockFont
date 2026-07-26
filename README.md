@@ -2,6 +2,11 @@
 
 本人字体设计不是特别好，如有建议可以提出
 
+> [!WARNING]
+>  FREE FONT - YOU SHOULD NOT HAVE TO PAY ANYTHING FOR THIS FONT FILE.  
+>  免费字体 - 获取本字体文件无需付费。  
+>  免費字型 - 獲取本字型檔案無需付費。  
+
 ## 声明
 本字体使用日本字形，简体偏旁的字也采用日本字形，因此不适合用于教学等正式场合使用。
 
