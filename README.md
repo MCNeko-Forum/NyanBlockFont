@@ -92,18 +92,6 @@ fc-cache -fv
 
 ---
 
-## 授权说明
-
-本字体的授权协议请参考仓库中的 LICENSE 文件。
-
-使用本字体时，请保留作者信息：
-
-```
-NyanBlockFont
-Created by Meowco
-© 2026 Meowco
-```
-
 ---
 -  许可协议  
 本字体使用 SIL Open Font License V1.1 许可协议发表。  
