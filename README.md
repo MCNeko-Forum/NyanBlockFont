@@ -54,7 +54,11 @@
 ## 文件列表
 
 ```
-NyanBlockFont-Light.ttf
+fonts/
+ NyanBlockFont-Light.ttf
+ NyanBlockFont-Light.otf
+ NyanBlockFont-Light.woff
+ NyanBlockFont-Light.woff2
 README.md
 LICENSE
 ```
@@ -100,6 +104,24 @@ Created by Meowco
 © 2026 Meowco
 ```
 
+---
+-  许可协议  
+本字体使用 SIL Open Font License V1.1 许可协议发表。  
+  
+-  在此协议下，您可以：  
+1.将喵块体(NyanBlockFont)及本字体的衍生版用于非商业或商业用途，无需告知原作者。  
+2.自由修改、再分发此字体，但是新字体的名称不得包含“喵块体”、“喵塊體”、“ニャンブロックフォント”、“NyanBlockFont”等文字。  
+3.嵌入网站或软件，且您对该软件的售卖不受限制。  
+  
+-  您不可以：  
+1.将喵块体(NyanBlockFont)及其衍生版本的**源文件**进行售卖、与其他字体捆绑售卖或设置VIP权限门槛。  
+2.将此字体用于违反法律用途。  
+3.使用其他许可协议发行此副本或您的修改版本。本字体的副本及任何修改版**必须以同样的许可协议（即 SIL Open Font License V1.1）发行**。  
+  
+-  还有一些事  
+1.强烈不建议将此字体用于现实世界的作业，若被老师等人批评，作者不承担任何责任。  
+2.使用时请将字号调整到18及以上，以免损伤您的视力。  
+3.关于许可协议，上述内容仅供初步参考，如果不放心，可以去阅读项目内的许可协议文本，或者去 https://scripts.sil.org/OFL 查看更精确的信息。   
 ---
 
 ## 作者
